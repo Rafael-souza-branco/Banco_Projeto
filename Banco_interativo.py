@@ -1,5 +1,5 @@
 #Banco - Programa baseado em uma caixa digital que tem as seguintes opções
-#pedir Usuario, Mostrar saldo, - Sacar, Depositar em dinheiro para a conta e fechar
+#pedir Usuario, Mostrar saldo, - Sacar e fechar
 
 
                             #CADASTRO DO INICIO DO PROGRAMA
