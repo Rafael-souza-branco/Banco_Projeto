@@ -17,7 +17,7 @@ Um simulador de banco virtual onde o usuário faz um mini cadastro e escolhe ent
 - Python 3
 
 ##Objetivo
-Treinar loops, entrada de usuário e classes
+Treinar loops, entrada de usuário e funções(futuramente classes)
 
 ##Autor
 Branco
